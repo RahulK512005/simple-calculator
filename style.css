@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f2f5;
+}
+.card {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+#display {
+    height: 60px;
+    font-size: 2rem;
+}
+button {
+    font-size: 1.2rem !important;
+    height: 50px;
+    margin-left: 5px;
+}
